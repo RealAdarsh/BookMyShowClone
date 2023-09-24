@@ -9,8 +9,7 @@
 
 
 # Sketch 
-
-![[UML_Diagram.png]]  
+![UML Diagram](./UML_Diagram.png)
 
 ## User Journey 
 
